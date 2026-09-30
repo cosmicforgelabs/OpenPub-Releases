@@ -52,7 +52,7 @@ to every release as `openpub-source-v<version>.zip`. The licence texts are insid
 ## About this repository
 
 This repository holds the published downloads only. OpenPub's own source code is not published here.
-Questions: hello@cosmicforgelabs.com.
+For help and support, visit [cosmicforgelabs.com/openpub](https://cosmicforgelabs.com/openpub).
 
 OpenPub is made by CosmicForge Labs and published by Embermont Ltd, registered in England and Wales.
 Microsoft and Microsoft Publisher are trademarks of the Microsoft group of companies. OpenPub is not
